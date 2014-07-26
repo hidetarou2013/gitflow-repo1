@@ -1,1 +1,2 @@
 releaseNote
+edit on hidelico.gitbash
